@@ -1,7 +1,7 @@
 function header() {
-    alert('JavaScript‚ÌƒAƒ‰[ƒg');
+    alert('JavaScriptã®ã‚¢ãƒ©ãƒ¼ãƒˆ');
     $.ajax({
-        url: "./parts/head.html", // “Ç‚İ‚ŞHTMLƒtƒ@ƒCƒ‹
+        url: "./parts/head.html", // èª­ã¿è¾¼ã‚€HTMLãƒ•ã‚¡ã‚¤ãƒ«
         cache: false,
         success: function (html) {
             document.write(html);

@@ -1,0 +1,33 @@
+header{
+    background-color:#A7E7EB;  
+}
+
+h1.headerText {
+    font-size: 40px;
+}
+p.headerSubText {
+    font-size: 15px;
+    color: red;
+}
+
+a.header {
+    text-decoration: none;
+}
+
+h1.titleBig {
+    font-size: 35px;
+    color:red;
+}
+
+p.title {
+    font-size: 25px;
+    background-color: #f7bb77;
+}
+
+p.text{
+    font-size:15px;
+}
+
+div.textBack {
+    background-color: #faf8e3;
+}
